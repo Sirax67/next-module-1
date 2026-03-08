@@ -52,8 +52,7 @@ export default function Home() {
           </div>
         </div>
        
-        <hr className='w-285 border-gray-300 mt-20 mb-20'/>
-         <a href='/catalog' className=' px-12 py-2 bg-blue-800 rounded text-white'>Каталог</a>
+       
          
         
         
